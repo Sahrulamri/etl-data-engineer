@@ -1,0 +1,7 @@
+# Mengabaikan file sensitif dan konfigurasi Airflow
+airflow/standalone_admin_password.txt
+airflow/webserver_config.py
+myvenv/
+# Abaikan folder log Airflow
+airflow/logs/
+*.log
